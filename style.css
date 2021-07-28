@@ -28,9 +28,6 @@ body{
     margin-top: 50px;
     padding: 101px;   
 }
-.img:hover{
-    filter: blur(0px);
-}
 
 .img{
     background: white;
@@ -43,6 +40,9 @@ body{
 }
 .img:hover{
     border-color:rgb(244, 195, 250);
+}
+.img:hover{
+    filter: blur(0px);
 }
 .heading{
     background: none;
