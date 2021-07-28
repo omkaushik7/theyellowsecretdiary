@@ -35,7 +35,7 @@ body{
     height: 215px;
     border-radius: 10px;
     border: 1px solid white;
-    cursor: cell;
+    cursor: pointer;
     filter: blur(10px);
 }
 .img:hover{
